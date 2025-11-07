@@ -4,6 +4,11 @@ export default function App() {
   // --- Hardcoded Movie List ---
   const movies = [
     {
+      title: "Song Game",
+      link: "https://youtube.com/shorts/WnW9_0BPv88?si=1uipEbaIJG1iHrug",
+      category: "Game",
+    },
+    {
       title: "Zindagi Na Milegi Dobara ",
       link: "https://youtu.be/gQEUkqZ33IA?si=XM4tA2_08sh4CZSA",
       category: "All Time Favourite",
@@ -19,15 +24,26 @@ export default function App() {
       category: "All Time Favourite",
     },
     {
-      title: "The Shawshank Redemption",
-      link: "https://www.youtube.com/watch?v=PLl99DlL6b4",
-      category: "Drama",
+      title: "Munna Bhai MBBS ",
+      link: "https://youtu.be/AA7MHjpFREU?si=Yq9eoXXnNuidSLiW",
+      category: "All Time Favourite",
     },
     {
-      title: "Avengers: Endgame",
-      link: "https://www.youtube.com/watch?v=TcMBFSGVi1c",
-      category: "Action",
+      title: "Bang Bang",
+      link: "https://youtu.be/x9hAS926Rjo?si=xo1_fpH0ELVIQCq5",
+      category: "All Time Favourite",
     },
+    {
+      title: "Someone said something then forward to next person",
+      link: "https://youtube.com/shorts/WnW9_0BPv88?si=1uipEbaIJG1iHrug",
+      category: "Game",
+    },
+    {
+      title: "Sing all songs from A to Z",
+      link: "https://youtube.com/shorts/WnW9_0BPv88?si=1uipEbaIJG1iHrug",
+      category: "Game",
+    },
+    
   ];
 
   // Extract YouTube video ID
